@@ -4,7 +4,7 @@ A completely automated and seamless system to manage drivers.
 
 ## Motivation 
 
-Often times it happens that multiple persons drive single vehicle (mainly in truck industry) and distance travelled by each person need to be tracked so we made a solution that can track the distance driven by the person using facial recognition.
+Often times it happens that multiple persons drive a single vehicle (mainly in truck and taxi industry) and distance travelled by each person need to be tracked so we made a solution that can track the distance driven by the person using facial recognition.
 
 The distance data linked to the driver face can be used in multiple purposes such as :
 
