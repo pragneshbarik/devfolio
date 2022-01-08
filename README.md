@@ -47,7 +47,7 @@ pip install face-recognition
 ```
 pip install lxml html5lib bs4
 ```
-4. Clone the folder.
+4. Clone the Driver Management folder.
 5. Copy all driver faces to be recognized to the folders named "Face Data".
 6. Run the .ipynb script. 
 
