@@ -18,7 +18,7 @@ The distance data linked to the driver face can be used in multiple purposes suc
 * Track persons driving the vehicle.
 * Track distance traveled by them. 
 * Geofence a particular driver.
-* Fetch real time fuel prices for that particular location to calculate fare levied on the driver.
+* Fetch real time fuel prices for that particular location and calculate fare levied on the driver.
 * Build a driver road attentiveness profile, to be able to discriminate good drivers from bad drivers. 
 
 ## Tech Stack
