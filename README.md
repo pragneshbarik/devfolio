@@ -34,7 +34,7 @@ The distance data linked to the driver face can be used in multiple purposes suc
 I will also post a video tutorial about how to operate, stay tuned.
 
 1. Install [Anaconda.](https://www.anaconda.com/)
-2. Install all dependancies using anaconda prompt, its necessary to follow the order given below.
+2. Install all dependancies using **anaconda prompt**, its necessary to follow the order given below.
 ```
 pip install numpy pandas radar-python opencv-python geopy
 ```
@@ -48,10 +48,10 @@ pip install face-recognition
 pip install lxml html5lib bs4
 ```
 4. Clone the folder.
-5. Just copy all driver faces to recognized the folders named "Face Data".
+5. Copy all driver faces to be recognized to the folders named "Face Data".
 6. Run the .ipynb script. 
 
 ## Demo
 
-I will upload a demo video explaining all the functionality of our project 
+I will upload a youtube video explaining all the functionality of our project.
 
