@@ -51,7 +51,7 @@ pip install lxml html5lib bs4
 5. Copy all driver faces to be recognized to the folders named "Face Data".
 6. Run the .ipynb script. 
 
-## Demo
+## Demo Video
 
 [Youtube Video](https://youtu.be/fBEFWTpiCLo)
 
