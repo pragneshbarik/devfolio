@@ -53,7 +53,7 @@ pip install lxml html5lib bs4
 
 ## Recommended Deployment Environments
 
-This program is built keeping performance limitations of mobile single board computers in mind, as it uses high performance machine learning library **DLib**, it is intended to run the program on :
+This program is built keeping performance limitations of mobile single board computers in mind, as it uses high performance machine learning library **DLib**, it run on :
 
 * Raspberry Pi 4
 * Nvidia Jetson Systems
