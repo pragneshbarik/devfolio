@@ -51,6 +51,13 @@ pip install lxml html5lib bs4
 5. Copy all driver faces to be recognized to the folders named "Face Data".
 6. Run the .ipynb script. 
 
+## Recommended Deployment Enviroments
+
+This program is built keeping performance limitations of mobile single board computers in mind, as it uses high performance machine learning library **DLib**, it is intended to run the program on:
+
+* Raspberry Pi 4.
+* Nvidia Jetson Systems.
+
 ## Demo Video
 
 [Youtube Video](https://youtu.be/fBEFWTpiCLo)
