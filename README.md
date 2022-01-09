@@ -31,8 +31,6 @@ The distance data linked to the driver face can be used in multiple purposes suc
 
 ## Installation
 
-I will also post a video tutorial about how to operate, stay tuned.
-
 1. Install [Anaconda.](https://www.anaconda.com/)
 2. Install all dependancies using **anaconda prompt**, its necessary to follow the order given below.
 ```
@@ -47,13 +45,15 @@ pip install face-recognition
 ```
 pip install lxml html5lib bs4
 ```
-4. Clone the Driver Management folder.
-5. Copy all driver faces to be recognized to the folders named "Face Data".
-6. Run the .ipynb script. 
+4. Download the Driver Management folder.
+5. Download [Shape Predictor Module](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+) then extract and copy it to the downloaded Driver Management folder.
+6. Copy all driver faces to be recognized to the folders named "Face Data".
+7. Run the .ipynb script. 
 
 ## Recommended Deployment Environments
 
-This program is built keeping performance limitations of mobile single board computers in mind, as it uses high performance machine learning library **DLib** it can work on :
+This program is built keeping performance limitations of mobile single board computers in mind, as it using high performance machine learning library **DLib**, it can work on :
 
 * Raspberry Pi 4 
 * Nvidia Jetson Systems
