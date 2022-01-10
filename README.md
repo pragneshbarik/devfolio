@@ -1,4 +1,4 @@
-# Computer Vision aided Driver Management System
+# Vision-Drive
 
 A completely automated and seamless system to manage drivers.
 
